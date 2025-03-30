@@ -1,2 +1,2 @@
 # POKEDEX
-Estructura de Datos - Proyecto: "Pokedex"
+Estructura de Datos - Proyecto: "Pokedex" en Flet
